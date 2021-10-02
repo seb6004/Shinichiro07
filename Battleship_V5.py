@@ -1,5 +1,5 @@
 # First Version of Battleship
-
+#test
 import random
 
 Coordonee_aleatoire_bat1_X= random.randint(1, 6)
